@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="yourRecommendations">Ваши рекомендации месяца:</string>
+    <string name="friendsRecommendation">Рекомендации друзей:</string>
+    <string name="bestRecommendations">Лучшие рекомендации:</string>
+</resources>
