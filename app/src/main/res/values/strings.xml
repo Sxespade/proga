@@ -3,4 +3,9 @@
     <string name="yourRecommendations">Ваши рекомендации месяца:</string>
     <string name="friendsRecommendation">Рекомендации друзей:</string>
     <string name="bestRecommendations">Лучшие рекомендации:</string>
+    <string name="msg_token_fmt">1</string>
+    <string name="title_home">Дом</string>
+    <string name="title_dashboard">Друзья</string>
+    <string name="title_notifications">Нотификация</string>
+
 </resources>
